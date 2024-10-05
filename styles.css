@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #17558e;
+    background-color: #f2f4f5;
     margin: 0;
     padding: 0;
 }
@@ -8,10 +8,10 @@ body {
 .container {
     max-width: 800px;
     margin: 20px auto;
-    background: rgb(239, 210, 64);
+    background: rgb(6, 58, 88);
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(228, 178, 28, 0.806);
+    box-shadow: 0 0 10px rgba(165, 217, 240, 0.806);
 }
 
 header {
