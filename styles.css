@@ -26,6 +26,7 @@ header {
 
 h1 {
     margin: 10px 0;
+    color: #333; /* Warna teks */
 }
 
 .about {
@@ -39,6 +40,7 @@ section {
 h2 {
     border-bottom: 2px solid #333;
     padding-bottom: 5px;
+    color: #444; /* Warna teks */
 }
 
 ul {
@@ -48,8 +50,14 @@ ul {
 
 li {
     margin-bottom: 15px;
+    transition: background-color 0.3s; /* Efek transisi */
+}
+
+li:hover {
+    background-color: #e0f7fa; /* Warna latar belakang saat hover */
 }
 
 h3 {
     margin: 5px 0;
+    color: #555; /* Warna teks */
 }
