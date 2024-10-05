@@ -8,10 +8,10 @@ body {
 .container {
     max-width: 800px;
     margin: 20px auto;
-    background: rgb(6, 58, 88);
+    background: rgb(253, 254, 255);
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(250, 251, 251, 0.806);
+    box-shadow: 0 0 10px rgba(12, 133, 133, 0.806);
 }
 
 header {
